@@ -10,4 +10,5 @@ Credit card loan repayment - Taiwan dataset
 -Perform Naive Bayes Classifier
 -Perform Random Forest Classifier
 -Identify the best model for the dataset (In this case: Logistic Regression)
--Input single data and predict the loan repaying outcome
+-Input single data and predict the loan repaying outcome (Only shown on the notebook version)
+
